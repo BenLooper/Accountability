@@ -1,10 +1,10 @@
-import scrumLog from './log'
+import log from './log'
 
 const Ben = () => {
 
     return (
         <>
-            {scrumLog.map(scrum => 
+            {log.map(scrum => 
                 <>
                     <h3>{scrum.date}</h3>
                     <label>TASKS</label>

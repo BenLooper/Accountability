@@ -1,4 +1,4 @@
-const scrumLog = [
+const log = [
     {
         date: '12/18/2020',
         tasks: [
@@ -24,4 +24,4 @@ const scrumLog = [
         ]
     }
 ]
-export default scrumLog
+export default log
