@@ -7,8 +7,8 @@ import Ben from './Ben/Ben.js'
 const App = () => {
   return (
     <Router history={history}>
-      <Route exact path='/' component={Home} />
-      <Route exact path='/Ben' component={Ben} />
+      <Route exact path="process.env.PUBLIC_URL + '/'" component={Home} />
+      <Route exact path='process.env.PUBLIC_URL + "/Ben"' component={Ben} />
     </Router>
   );
 }
