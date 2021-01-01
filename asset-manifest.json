@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Accountability/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/Accountability/static/js/main.1e5f983a.chunk.js",
-    "main.js.map": "/Accountability/static/js/main.1e5f983a.chunk.js.map",
+    "main.js": "/Accountability/static/js/main.bd065873.chunk.js",
+    "main.js.map": "/Accountability/static/js/main.bd065873.chunk.js.map",
     "runtime-main.js": "/Accountability/static/js/runtime-main.a5ffa080.js",
     "runtime-main.js.map": "/Accountability/static/js/runtime-main.a5ffa080.js.map",
     "static/js/2.b539f8ae.chunk.js": "/Accountability/static/js/2.b539f8ae.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a5ffa080.js",
     "static/js/2.b539f8ae.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.1e5f983a.chunk.js"
+    "static/js/main.bd065873.chunk.js"
   ]
 }
