@@ -22,6 +22,14 @@ const log = [
             'Task2',
             'Task3'
         ]
+    },
+    {
+        date: '12/31/2020',
+        tasks: [
+            'Ahhh',
+            'Yayy',
+            'Hey :)'
+        ]
     }
 ]
 export default log
