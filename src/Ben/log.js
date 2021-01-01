@@ -30,6 +30,38 @@ const log = [
             'Yayy',
             'Hey :)'
         ]
+    },
+    {
+        date: '12/31/2020',
+        tasks: [
+            'Ahhh',
+            'Yayy',
+            'Hey :)'
+        ]
+    },
+    {
+        date: '12/31/2020',
+        tasks: [
+            'Ahhh',
+            'Yayy',
+            'Hey :)'
+        ]
+    },
+    {
+        date: '12/31/2020',
+        tasks: [
+            'Ahhh',
+            'Yayy',
+            'Hey :)'
+        ]
+    },
+    {
+        date: '12/31/2020',
+        tasks: [
+            'Ahhh',
+            'Yayy',
+            'Hey :)'
+        ]
     }
 ]
 export default log
