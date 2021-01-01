@@ -30,6 +30,14 @@ const log = [
             'Task2',
             'Task3'
         ]
+    },
+    {
+        date: '1/1/2020',
+        tasks: [
+            'Task1',
+            'Task2',
+            'Task3'
+        ]
     }
 ]
 export default log
