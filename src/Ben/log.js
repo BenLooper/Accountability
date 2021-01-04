@@ -62,6 +62,13 @@ const log = [
             'Yayy',
             'Hey :)'
         ]
+    },
+    {
+        date: '1/4/2020',
+        tasks: [
+            'Make changes to resume',
+            'Work on portfolio site'
+        ]
     }
 ]
 export default log
